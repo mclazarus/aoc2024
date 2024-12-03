@@ -1,7 +1,8 @@
 [workspace]
+resolver = "2"
 members = [
     "day-one-a",
-    "day-one-b",
+    "day-one-b", "day-three-a",
     "day-two-a",
     "day-two-b",
 ]
