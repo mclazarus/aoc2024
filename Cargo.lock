@@ -12,7 +12,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "day-five-a"
+version = "0.1.0"
+
+[[package]]
 name = "day-four-a"
+version = "0.1.0"
+
+[[package]]
+name = "day-four-b"
 version = "0.1.0"
 
 [[package]]
